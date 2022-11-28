@@ -9,9 +9,9 @@ separate document.
 
 ### Output:
 
-- [Presentation slides]()
+- [Presentation slides](https://github.com/Wenying-Wu/Yarn-Project-Schedule/blob/main/Yarn%20Project%20Schedule.pdf)
 
-- [SQL workfile]()
+- [SQL workfile](https://github.com/Wenying-Wu/Yarn-Project-Schedule/blob/main/Yarn%20Project%20Schedule.txt)
 
 ### Note: 
 - This database describes the knitting Project schedule from easy to hard 
