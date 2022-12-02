@@ -8,9 +8,9 @@ A simplified version of a database used in a real-world software system, subject
 
 ### Output:
 
-- [Presentation slides](https://github.com/Wenying-Wu/Yarn-Project-Schedule/blob/main/Yarn%20Project%20Schedule.pdf)
+- [Presentation slides](https://github.com/Wenying-Wu/Yarn-Project-Schedule/blob/main/slides_yarn_project_schedule.pdf)
 
-- [SQL workfile](https://github.com/Wenying-Wu/Yarn-Project-Schedule/blob/main/Yarn%20Project%20Schedule.txt)
+- [SQL workfile](https://github.com/Wenying-Wu/Yarn-Project-Schedule/blob/main/workfile_yarn_project_schedule.sql)
 
 ### Note: 
 - This database describes the knitting Project schedule from easy to hard 
