@@ -10,7 +10,7 @@ A simplified version of a database used in a real-world software system, subject
 - [SQL workfile](https://github.com/wenyingw/Yarn-Project-Schedule/blob/main/workfile_yarn_project_schedule.sql)
 
 ### Note: 
-- This database describes the knitting Project schedule from easy to hard 
+- This database describes the knitting project schedule from easy to hard 
 - It is created to help knitter to find suitable knitting projects and yarns according to their capability
 - The code is unaligned in the workfile at GitHub, but the code is aligned when opened at the local app.
 
